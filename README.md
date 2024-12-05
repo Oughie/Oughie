@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oughie 🍉
+[![Stars](https://img.shields.io/github/stars/Oughie)](https://github.com/Oughie/dotfiles/stargazers)
 
-<!--
-**Oughie/Oughie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> ### [clock-rs](https://github.com/Oughie/clock-rs)
+> A clock for your terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ### [dotfiles](https://github.com/Oughie/dotfiles)
+> My personal dotfiles for Hyprland
+
+---
+
+[![Icons](https://skillicons.dev/icons?i=rust,nix,neovim,tauri,python,bun)](https://skillicons.dev)
