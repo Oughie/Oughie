@@ -5,8 +5,12 @@
 > ### [clock-rs](https://github.com/Oughie/clock-rs)
 > A clock for your terminal
 
-> ### [dotfiles](https://github.com/Oughie/dotfiles)
-> My personal dotfiles for Hyprland
+
+> ### [nixos-config](https://github.com/Oughie/nixos-config)
+> My system configuration for Hyprland on NixOS
+
+> ### [dotfiles](https://github.com/Oughie/dotfiles) (ARCHIVED)
+> My personal dotfiles for Hyprland on Arch Linux
 
 <br/>
 
