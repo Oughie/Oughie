@@ -1,5 +1,5 @@
 # Oughie 🍉
-[![Stars](https://img.shields.io/github/stars/Oughie)](https://github.com/Oughie/dotfiles/stargazers)
+[![Stars](https://img.shields.io/github/stars/Oughie)](https://github.com/Oughie/nixos-config/stargazers)
 [![Followers](https://img.shields.io/github/followers/Oughie)](https://github.com/Oughie?tab=followers)
 
 > ### [clock-rs](https://github.com/Oughie/clock-rs)
