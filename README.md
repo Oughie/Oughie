@@ -14,4 +14,4 @@
 
 <br/>
 
-[![Icons](https://skillicons.dev/icons?i=rust,nix,neovim,tauri,python,bun)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=rust,nix,neovim,tauri,python)](https://skillicons.dev)
