@@ -11,7 +11,3 @@
 
 > ### [dotfiles](https://github.com/Oughie/dotfiles) (ARCHIVED)
 > My personal dotfiles for Hyprland on Arch Linux
-
-<br/>
-
-[![Icons](https://skillicons.dev/icons?i=rust,nix,neovim,tauri,python)](https://skillicons.dev)
