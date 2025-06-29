@@ -7,7 +7,4 @@
 
 
 > ### [nixos-config](https://github.com/Oughie/nixos-config)
-> My system configuration for Hyprland on NixOS
-
-> ### [dotfiles](https://github.com/Oughie/dotfiles) (ARCHIVED)
-> My personal dotfiles for Hyprland on Arch Linux
+> My system configuration for NixOS
